@@ -30,7 +30,7 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.settings/
+#.settings/
 .loadpath
 
 # Eclipse Core
@@ -81,7 +81,6 @@ hs_err_pid*
 
 
 
-
 ######## Android ########
 # Built application files
 *.apk
@@ -94,8 +93,8 @@ hs_err_pid*
 *.class
 
 # Generated files
-bin/
-gen/
+#bin/
+#gen/
 
 # Gradle files
 .gradle/
