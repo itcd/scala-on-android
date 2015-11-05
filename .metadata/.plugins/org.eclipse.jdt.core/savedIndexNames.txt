@@ -1,8 +1,0 @@
-INDEX VERSION 1.127+D:\document\work\scala\.metadata\.plugins\org.eclipse.jdt.core
-152064756.index
-2989212675.index
-2485878017.index
-2068374164.index
-2865654865.index
-915034565.index
-142275866.index
