@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
 		setContentView(frame, new LayoutParams(LayoutParams.MATCH_PARENT,
 				LayoutParams.MATCH_PARENT));
 		if (savedInstanceState == null) {
-			fragment = new Sketch();
+			fragment = new ScalaSketch();
 			FragmentTransaction ft = getFragmentManager().beginTransaction();
 			ft.add(frame.getId(), fragment, MAIN_FRAGMENT_TAG).commit();
 		} else {
