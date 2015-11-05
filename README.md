@@ -1,1 +1,1 @@
-# scala
+# Using Scala and Processing on Android (Eclipse projects)
