@@ -1,1 +1,1 @@
-# Android Apps with Scala and Processing (Eclipse projects)
+# Android Apps in Scala and Processing (Eclipse projects)
